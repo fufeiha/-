@@ -2,23 +2,24 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title作业1</title>
+<title>作业1</title>
 <style type="text/css">
-ol{width: 220px;height: 100px;position: absolute;}
+ol{width: 220px;height: 100px;}
 h3{font-weight: 100}
+li{border-top: 1px dotted #020212;}
 a{text-decoration: none}
 a:hover{color: red}
-li{border-top: 1px dotted #020212;}
 </style>
+<base target="_blank">
 </head>
 <body>
 	<ol><h3>图书畅销榜</h3>
-		<!--所有连接来源于相关的百度百科！ -->
-		<li><span title="当我足够好，才会遇见你"><a href="http://baike.baidu.com/link?url=NYYYcb51t_unNl9t-dbqGAUehI3B4nqHWZdYqvAfmwrpFhLUu7S4HoSjPNZuDAXLP5AzOYTC2omhKZV70Q78JnqQjsyB7OoTYYFUXYAEV5O">当我足够好，才会遇见你</a></span></li>
-		<li><a href="http://baike.baidu.com/link?url=RC6uNjUlPMwZjOFLuV5qeWF1lxMM02gkIGOkyvQLdPeMkpLNDbEOTMBQM16oZOgbjfdSKjpEzEYzkb4dit0w4fG0vGYjgXzdMIXjPhsrLjq">皮囊</a></li>
-		<li><a href="http://baike.baidu.com/link?url=CyyJq8ZRVdQV7ZhRyBpWj35IRerASMavY2e_LG875NToJXztAfzDv61XKTfGRPe2ldRwM8tqmFB-8knzZhoLjq">李光耀论中国与世界</a></li>
-		<li><a href="http://baike.baidu.com/link?url=U7PviYmgPui2TMRnUkG2PLiLsGoM_WB0vg87o1p5_nT0c5_-07bCqnTq5lxlTH2LI1sX8rOdZLgxxNdzsbGJzA_0M36cZxeqCSdSaY9R_0poe8NqZmYNfgeN4FhLAFUZ">乖，摸摸头</a></li>
-		<li><a href="http://baike.baidu.com/link?url=KBISCWoqgo2rQ5v9EL3TzhkJMD1kP6OXzO0uSwC3SNSkjG7qALqVrT1YPgVItk-2wRPSGoymEVsIWUVx66_6J_">男女内参</a></li>
+		<!--所有a标签下的连接来源于相关的百度百科！ -->
+		<li><a href="http://baike.baidu.com/link?url=NYYYcb51t_unNl9t-dbqGAUehI3B4nqHWZdYqvAfmwrpFhLUu7S4HoSjPNZuDAXLP5AzOYTC2omhKZV70Q78JnqQjsyB7OoTYYFUXYAEV5O" title="当我足够好，才会遇见你">当我足够好，才会遇见你</a></li>
+		<li><a href="http://baike.baidu.com/link?url=RC6uNjUlPMwZjOFLuV5qeWF1lxMM02gkIGOkyvQLdPeMkpLNDbEOTMBQM16oZOgbjfdSKjpEzEYzkb4dit0w4fG0vGYjgXzdMIXjPhsrLjq" title="皮囊">皮囊</a></li>
+		<li><a href="http://baike.baidu.com/link?url=CyyJq8ZRVdQV7ZhRyBpWj35IRerASMavY2e_LG875NToJXztAfzDv61XKTfGRPe2ldRwM8tqmFB-8knzZhoLjq" title="李光耀论中国与世界">李光耀论中国与世界</a></li>
+		<li><a href="http://baike.baidu.com/link?url=U7PviYmgPui2TMRnUkG2PLiLsGoM_WB0vg87o1p5_nT0c5_-07bCqnTq5lxlTH2LI1sX8rOdZLgxxNdzsbGJzA_0M36cZxeqCSdSaY9R_0poe8NqZmYNfgeN4FhLAFUZ" title="乖，摸摸头">乖，摸摸头</a></li>
+		<li><a href="http://baike.baidu.com/link?url=KBISCWoqgo2rQ5v9EL3TzhkJMD1kP6OXzO0uSwC3SNSkjG7qALqVrT1YPgVItk-2wRPSGoymEVsIWUVx66_6J_" title="男女内参">男女内参</a></li>
 	</ol>
 </body>
 </html>
